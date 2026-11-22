@@ -28,4 +28,4 @@ Made by **Meshan Nawod**, Physics undergraduate at the University of Peradeniya 
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+GPL-2.0-or-later. See [LICENSE](LICENSE).
